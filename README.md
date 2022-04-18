@@ -1,6 +1,6 @@
 # Digital-Business-Card
 Scrimba Solo Project | Digital Business Card
 
-##Screen
+## Screen
 
 ![Home Page](/src/images/homepage.png)
