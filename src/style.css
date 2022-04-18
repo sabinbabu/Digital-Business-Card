@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    color: aliceblue;
+    background-image: url(./images/web-developer.jpg);
+    background-size: auto;
+    background-position: 50% 40%;
+    line-height: 1.5;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    }
+    
+    #root{
+        width: 300px;
+        background: black;
+        padding: 50px;
+        border-radius: 20px;
+        margin: 150px auto;
+    }
+    
+    .contact--name{
+        color: aliceblue;
+    }
+    
+    .contact--position{
+        color: #F3BF99;
+    
+    }
+    
+    .contact--buttons{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .contact--email{
+        padding: 10px;
+        margin-right: 10px;
+        border: none;
+        border-radius: 10px;
+        color: black;
+        cursor:pointer
+    }
+    .contact--linkedin{
+        padding: 10px;
+        background-color: #5093E2;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        cursor:pointer
+    }
+    
+    .contact--linkedin:hover{
+        background-color: #5a9fef ;
+    }
+    
+    
+    .social_media > a > button{
+        margin: 10px;
+        font-size: 25px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .twitter:hover{
+        background-color:#81c5f3 ;
+    }
+    
+    .github:hover{
+        background-color: #c3c3c8f8;
+    }
+    
+    .playstore:hover{
+        background-color: #f5f78d;
+    }
